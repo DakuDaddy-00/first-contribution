@@ -1,1 +1,1 @@
-# first-contribution
+print("My first contribution!")
